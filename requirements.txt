@@ -1,2 +1,2 @@
 -e git://github.com/bundler/homu.git@288bda90d87f6500f7dd9dd779b633f7615f72e4#egg=homu
-Jinja2==2.8
+Jinja2==2.10.1
